@@ -27,7 +27,7 @@ body {
     color: white;
     text-align: center;
     margin-top: 15px;
-    margin-bottom: 0px;
+    margin-bottom: 15px;
 }
 
 .buttons {
@@ -62,5 +62,4 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 80px;
 }
